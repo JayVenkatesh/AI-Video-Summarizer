@@ -35,8 +35,8 @@ AI-Video-Summarizer/
 
 🧩 Example Use
 
-1.Upload a video (below 200MB)
-2.Wait for the processing to complete
-3.View the summarized output in text format
+- Upload a video (below 200MB)
+- Wait for the processing to complete
+- View the summarized output in text format
 
 
