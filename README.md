@@ -23,6 +23,7 @@ This tool extracts key insights and generates concise summaries for videos under
 
 ---
 
+## 📂 Project Structure
 AI-Video-Summarizer/
 │
 ├── app.py # Main Streamlit application
@@ -37,5 +38,5 @@ AI-Video-Summarizer/
 1.Upload a video (below 200MB)
 2.Wait for the processing to complete
 3.View the summarized output in text format
-## 📂 Project Structure
+
 
